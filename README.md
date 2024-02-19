@@ -1,4 +1,4 @@
-**Design Thinking no Programação Web III**
+**Design Thinking no Desenvolvimento Web III**
 
 **Índice**
 
@@ -30,7 +30,7 @@ Cada etapa é iterativa e pode envolver ciclos de feedback para refinamento cont
 
 **3\. Aplicação do Design Thinking no Desenvolvimento Web**
 
-Na Programação web, o Design Thinking pode ser aplicado para entender as necessidades dos usuários finais, criar interfaces intuitivas, e desenvolver experiências digitais significativas. Ele promove a colaboração entre designers, desenvolvedores e stakeholders para produzir produtos de alta qualidade.
+No Desenvolvimento Web, o Design Thinking pode ser aplicado para entender as necessidades dos usuários finais, criar interfaces intuitivas, e desenvolver experiências digitais significativas. Ele promove a colaboração entre designers, desenvolvedores e stakeholders para produzir produtos de alta qualidade.
 
 **4\. Exemplos de Casos de Sucesso**
 
