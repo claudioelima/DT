@@ -83,6 +83,14 @@ A empresa fictícia HealthTech está buscando criar um aplicativo móvel inovado
 
 O desenvolvimento do aplicativo de monitoramento de bem-estar enfrenta diversos desafios que precisam ser cuidadosamente considerados e abordados pela HealthTech:
 
+1. Segurança dos Dados Pessoais:
+A segurança dos dados dos usuários é uma prioridade absoluta. A coleta de informações pessoais sensíveis exige medidas robustas de proteção de dados para garantir que essas informações não sejam comprometidas ou acessadas por terceiros não autorizados.
+2. Usabilidade:
+A experiência do usuário é crucial para o sucesso do aplicativo. Ele deve ser intuitivo, fácil de usar e oferecer uma interface atraente que motive os usuários a continuarem utilizando-o regularmente.
+3. Integração com Dispositivos de Saúde:
+O aplicativo deve ser capaz de se integrar perfeitamente com uma variedade de dispositivos de saúde, como smartwatches, monitores de frequência cardíaca e balanças inteligentes. Isso permitirá uma coleta de dados mais precisa e abrangente.
+
+
 **Conclusão:**
 
 O desenvolvimento de um aplicativo de monitoramento de bem-estar é um desafio complexo que requer uma abordagem cuidadosa e abrangente. Ao enfrentar os desafios de segurança dos dados, usabilidade, integração com dispositivos de saúde e governança de TI, a HealthTech pode criar um aplicativo que verdadeiramente beneficie os usuários, ajudando-os a melhorar sua saúde e bem-estar geral.
