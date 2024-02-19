@@ -72,3 +72,23 @@ O Design Thinking é uma abordagem poderosa para o desenvolvimento web, pois col
 3. PLATTNER, Hasso; MEHRLE, Christoph; WEINBERGER, Larry. **Design Thinking: Understand – Improve – Apply**. Springer, 2010.
 
 (Associação Brasileira de Normas Técnicas. NBR 6023: Informação e documentação - Referências - Elaboração. Rio de Janeiro, 2018.)
+
+**Desafio: Desenvolvimento de um Aplicativo de Saúde para Monitoramento de Bem-Estar**
+
+**Contexto:**
+
+A empresa fictícia HealthTech está buscando criar um aplicativo móvel inovador que permita aos usuários monitorarem seu bem-estar de forma abrangente. Este aplicativo terá como objetivo principal fornecer aos usuários uma ferramenta integrada para melhorar sua saúde e bem-estar geral. Isso incluirá o rastreamento de diversas métricas de saúde, tais como atividades físicas, hábitos alimentares, níveis de estresse, qualidade do sono, entre outros.
+
+**Problema:**
+
+O desenvolvimento do aplicativo de monitoramento de bem-estar enfrenta diversos desafios que precisam ser cuidadosamente considerados e abordados pela HealthTech:
+
+**Conclusão:**
+
+O desenvolvimento de um aplicativo de monitoramento de bem-estar é um desafio complexo que requer uma abordagem cuidadosa e abrangente. Ao enfrentar os desafios de segurança dos dados, usabilidade, integração com dispositivos de saúde e governança de TI, a HealthTech pode criar um aplicativo que verdadeiramente beneficie os usuários, ajudando-os a melhorar sua saúde e bem-estar geral.
+
+**Prática:**
+
+1. Descreva a definição do problema.
+2. Cada integrante do grupo tem que dá três ideias para a solução do problema e depois o grupo tem que votar a melhor ideia.
+3. Protótipo a melhor ideia da solução do problema
