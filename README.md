@@ -65,20 +65,6 @@ O Design Thinking é uma abordagem poderosa para o desenvolvimento web, pois col
 4. É importante enfrentar desafios como a colaboração interdisciplinar e o equilíbrio entre criatividade e restrições técnicas.
 5. Medir o sucesso de projetos baseados em Design Thinking pode envolver métricas de engajamento do usuário, satisfação e eficácia da solução.
 
-**\. Prática**
-*Desafio: Desenvolvimento de um Aplicativo de Saúde para Monitoramento de Bem-Estar*
-Contexto:
-A empresa fictícia HealthTech está buscando criar um aplicativo móvel inovador que permita aos usuários monitorarem seu bem-estar de forma abrangente. Este aplicativo terá como objetivo principal fornecer aos usuários uma ferramenta integrada para melhorar sua saúde e bem-estar geral. Isso incluirá o rastreamento de diversas métricas de saúde, tais como atividades físicas, hábitos alimentares, níveis de estresse, qualidade do sono, entre outros.
-**Problema:**
-O desenvolvimento do aplicativo de monitoramento de bem-estar enfrenta diversos desafios que precisam ser cuidadosamente considerados e abordados pela HealthTech:
-**Conclusão:**
-O desenvolvimento de um aplicativo de monitoramento de bem-estar é um desafio complexo que requer uma abordagem cuidadosa e abrangente. Ao enfrentar os desafios de segurança dos dados, usabilidade, integração com dispositivos de saúde e governança de TI, a HealthTech pode criar um aplicativo que verdadeiramente beneficie os usuários, ajudando-os a melhorar sua saúde e bem-estar geral.
-
-1.	Descreva a definição do problema.
-2.	Cada integrante do grupo tem que dá três ideias para a solução do problema e depois o grupo tem que votar a melhor ideia.  
-3.	Protótipo a melhor ideia da solução do problema 
-
-
 **9\. Bibliografia**
 
 1. BROWN, Tim. **Design Thinking**. Harvard Business Review Press, 2009.
